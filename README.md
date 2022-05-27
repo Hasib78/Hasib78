@@ -1,4 +1,4 @@
- ![Software Developer]( https://kobow0slobiijf1gt82uaq.on.drv.tw/Webhost/Hasib.jpg)
+ ![Software Developer]()
  ### Hi there 👋, Shaikh Hasibul Islam
 #### Software Developer
  
