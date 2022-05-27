@@ -24,7 +24,7 @@ Skills: .NET / REACT / JS / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hasib78)  
 
-![GitHub metrics](https://metrics.lecoq.io/Hasib78)  
+![GitHub metrics](https://metrics.lecoq.io/Hasib)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Hasib78)  
 
