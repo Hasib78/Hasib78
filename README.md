@@ -1,7 +1,5 @@
 ### Hi there 👋, Shaikh Hasibul Islam
 #### Software Developer
-![Software Developer](https://drive.google.com/file/d/1xdDxCjJAyRfylyKerY0xwuUIJI8PscZA/view?usp=share_link)
-
 I am Shaikh Hasibul Islam. I have completed my graduation from Daffodil International University in Computer Science and Engineering.
 
 Skills: Node.js / REACT / HTML / CSS
