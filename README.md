@@ -22,7 +22,7 @@ Skills: .NET / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasib78&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hasib78)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hasib78)
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Hasib78)  
