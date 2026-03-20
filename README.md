@@ -11,7 +11,6 @@ I am a Software Engineer with a solid background in full-stack development, now 
 - 🔬 **Research:** Co-authored a published paper in Springer titled *"A Deep Neural Networks-Based Food Recognition Approach"*.
 - 💻 **Experience:** Bringing years of practical industry experience in robust web development (Spring Boot, FastAPI, React) into the AI space.
 - 🧠 **Currently Building:** Multi-agent architectures, Retrieval-Augmented Generation (RAG) pipelines, and intelligent chatbots using **LangGraph** and **LangChain**.
-- 🎓 **Academic Goals:** Actively preparing to further my specialization with an MSc in Artificial Intelligence/Computer Science.
 - 📫 **Reach out:** [islam.hasib78657@gmail.com](mailto:islam.hasib78657@gmail.com)
 
 ---
@@ -49,7 +48,7 @@ I am a Software Engineer with a solid background in full-stack development, now 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hasib78&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Hasib78&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
