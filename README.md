@@ -1,26 +1,61 @@
-### Hi there 👋, Shaikh Hasibul Islam
-#### Software Developer
-I am Shaikh Hasibul Islam. I have completed my graduation from Daffodil International University in Computer Science and Engineering.
+# Hi there 👋, I'm Shaikh Hasibul Islam
 
-Skills: Node.js / REACT / HTML / CSS
+### 🤖 AI Engineer | Full-Stack Developer | Published Researcher
 
-- 🔭 I’m currently working on Node.js 
-- 🌱 I’m currently learning MongoDB 
-- 📫 How to reach me:  islam.hasib78657@gmail.com 
+I am a Software Engineer with a solid background in full-stack development, now fully focused on building intelligent, scalable systems using **Generative AI, Large Language Models (LLMs), and Agentic Workflows**. With a B.Sc. in Computer Science and Engineering and a passion for algorithmic problem-solving in C++, I bridge the gap between complex AI research and production-ready applications.
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hasib78)  
+### 🚀 About Me
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hasib78)](https://github.com/ryo-ma/github-profile-trophy)
+- 🔬 **Research:** Co-authored a published paper in Springer titled *"A Deep Neural Networks-Based Food Recognition Approach"*.
+- 💻 **Experience:** Bringing years of practical industry experience in robust web development (Spring Boot, FastAPI, React) into the AI space.
+- 🧠 **Currently Building:** Multi-agent architectures, Retrieval-Augmented Generation (RAG) pipelines, and intelligent chatbots using **LangGraph** and **LangChain**.
+- 🎓 **Academic Goals:** Actively preparing to further my specialization with an MSc in Artificial Intelligence/Computer Science.
+- 📫 **Reach out:** [islam.hasib78657@gmail.com](mailto:islam.hasib78657@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasib78)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasib78&show_icons=true)  
+### 🛠️ Tech Stack & Tools
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hasib78)  
+**Generative AI & Agents** ![LangChain](https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=codeigniter&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs/RAG-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-![GitHub metrics](https://metrics.lecoq.io/Hasib78)  
+**Backend & APIs** ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Hasib78)  
+**Frontend & UI** ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Profile views](https://gpvc.arturio.dev/Hasib78)  
+**Languages & Fundamentals** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Competitive_Programming-8A2BE2?style=for-the-badge)
+
+---
+
+### 📊 GitHub Analytics
+
+*(A curated look at my coding activity and language utilization)*
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hasib78&theme=radical&margin-w=15" alt="Trophies" />
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasib78&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Hasib78&theme=radical" alt="Streak Stats" width="48%" />
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasib78&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://gpvc.arturio.dev/Hasib78" alt="Profile Views" width="48%" />
+</div>
+
+---
+<div align="center">
+  <i>Let's connect and build something intelligent together.</i><br><br>
+  <a href="https://github.com/Hasib78"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30"></a>
+</div>
