@@ -29,6 +29,7 @@ I am a Software Engineer with a solid background in full-stack development, now 
 
 **Languages & Fundamentals** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Competitive_Programming-8A2BE2?style=for-the-badge)
 
 ---
@@ -37,10 +38,6 @@ I am a Software Engineer with a solid background in full-stack development, now 
 
 *(A curated look at my coding activity and language utilization)*
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hasib78&theme=radical&margin-w=15" alt="Trophies" />
-</div>
-<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasib78&layout=compact&theme=radical" alt="Top Languages" width="48%" />
