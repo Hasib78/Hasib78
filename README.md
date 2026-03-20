@@ -44,14 +44,12 @@ I am a Software Engineer with a solid background in full-stack development, now 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasib78&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Hasib78&theme=radical" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasib78&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </div>
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasib78&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-  <img src="https://gpvc.arturio.dev/Hasib78" alt="Profile Views" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=Hasib78&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
