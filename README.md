@@ -9,7 +9,7 @@ I am a Software Engineer with a solid background in full-stack development, now 
 ### 🚀 About Me
 
 - 🔬 **Research:** Co-authored a published paper in Springer titled *"A Deep Neural Networks-Based Food Recognition Approach"*.
-- 💻 **Experience:** Bringing years of practical industry experience in robust web development (FastAPI, Spring Boot, React) into the AI space.
+- 💻 **Experience:** Bringing years of practical industry experience in robust web development (FastAPI, Streamlit, Spring Boot, React) into the AI space.
 - 🧠 **Currently Building:** Multi-agent architectures, Retrieval-Augmented Generation (RAG) pipelines, and intelligent chatbots using **LangGraph** and **LangChain**.
 - 📫 **Reach out:** [islam.hasib78657@gmail.com](mailto:islam.hasib78657@gmail.com)
 
